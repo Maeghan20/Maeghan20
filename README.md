@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maeghan20
-- 👀 I’m interested in learning more programming languages and being fluent at it.
+- 👀 I’m interested in learning programming 
 - 🌱 I’m currently learning Bachelors in Data Science
 - 💞️ I’m looking to collaborate on research based projects
 - 📫 How to reach me ...
